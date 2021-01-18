@@ -1,0 +1,9 @@
+.idea/
+Thumbs.db
+dektop.ini
+.DS_Store
+node_modules/
+build/
+package-lock.json
+*.map
+
